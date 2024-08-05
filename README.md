@@ -1,6 +1,6 @@
 # Secure and Efficient Outsourcing of PCA-Based Face Recognition
 
-This repository contains the implementation and verification codes for the paper "A Note on 'Secure and Efficient Outsourcing of PCA-Based Face Recognition'" by Satyabrat Rath, Jothi Rangasamy and Sohham Seal. The repository is structured to demonstrate the fundamental mathematical flaws in existing algorithms and propose robust solutions.
+This repository contains the implementation and verification codes for the paper **"A Note on 'Secure and Efficient Outsourcing of PCA-Based Face Recognition'"** by Satyabrat Rath, Jothi Rangasamy and Sohham Seal. The repository is structured to demonstrate the fundamental mathematical flaws in existing algorithms and propose robust solutions.
 
 ## Background
 
