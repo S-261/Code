@@ -14,7 +14,7 @@ Zhang et al. introduced a two-round outsourcing algorithm for PCA-based face rec
 
 2. **Matrix Encryption**
 
-   - The client generates random numbers and matrices to encrypt the matrix $$ S = \frac{1}{m} A A^T $$
+   - The client generates random numbers and matrices to encrypt the matrix $$S = \frac{1}{m} A A^T$$
      and constructs an encrypted matrix `U`. This ensures that the data is secure before outsourcing.
 
 3. **Outsourcing Eigendecomposition**
